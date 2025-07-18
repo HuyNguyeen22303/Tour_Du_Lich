@@ -307,7 +307,7 @@ try {
           </span>
         </div>
         <p class="inner-desc">
-          Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint...
+          Anh Huy đẹp trai
         </p>
         <div class="button">
           <div class="button-2"><a href="chi-tiet-tour.php">Book Now</a></div>
